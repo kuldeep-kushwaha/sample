@@ -12,6 +12,7 @@ console.log("kulde9")
 console.log("kulde10")
 console.log("kulde1")
 console.log("kuld1")
+console.log("kuld1")
 
 
 
