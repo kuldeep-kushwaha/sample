@@ -14,7 +14,6 @@ console.log("kulde1")
 console.log("kuld1")
 console.log("kuld1")
 console.log("kuld2")
-console.log("kulds")
 
 
 
